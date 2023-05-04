@@ -1,0 +1,1 @@
+const linkapp=()=>{window.location.href="https://github.com/rodridev97/expresso-website/releases/download/v0.2.0-beta/expresso-0.2.0-beta.apk"},socialTelegram=()=>{window.location.href="https://t.me/+bkAJaxPuakJmNWMx"};
